@@ -1,0 +1,55 @@
+menus:
+	- 
+		name: Home
+		link: /
+	- 
+		name: Category
+		link: categories/
+	-
+	  name: Links
+		link: links/
+	- 
+		name: Projects
+		link: projects/
+	- 
+		name: About
+		link: about/
+	-
+		name: Message
+		link: message/
+
+profile:
+	location: JieYang, China
+	github: 
+	#stackoverflow: 
+		#title: name
+		#href: url
+	#organization:
+
+github: 
+	username: 
+  popular_repos: []
+
+search: local #google｜local
+
+
+# Comment System, supports Disqus and Gitmet(Alternative)
+
+# Disqus
+disqus_username:
+
+# Giemtn is based on comments' system of repo's issus, project's address: https://github.com/imsun/gitment
+# Sign up on https://github.com/settings/applications/new
+gitment_owner: #github_id
+#gitment_repo: repo to store comments
+#gitment_client_id: your client_id
+#gitment_client_secret: your client_secret
+
+# Share System
+share: false #true/false
+
+# Code Highlight theme
+# Available value:
+#    normal | night | night eighties | night blue | night bright
+# https://github.com/chriskempson/tomorrow-theme
+highlight_theme: normal
