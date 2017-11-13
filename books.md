@@ -91,3 +91,5 @@
 + A first course in probability(概率论基础教程) Sheldon M. Ross
 + An introduction to Probability Theory And Its Applications (概率论及其应用) WilliamFeller
 + Mathematical thought:from ancient to modern times (古今数学思想)
++ A Short History of Nearly Everything (万物简史)
++ The Selfish Gene (自私的基因)
