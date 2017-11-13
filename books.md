@@ -1,6 +1,5 @@
 + Charlie and the Chocolate Factory (查理和他的巧克力工厂)
 + The little prince (小王子)
-+ The wonderful wizard of oz (绿野仙踪)
 + Flipped (怦然心动)
 + And then there were none (无人生还)
 + The house on mango street (芒果街上的小屋)
@@ -10,7 +9,6 @@
 + Harry Potter Harry and the Goblet of Fire (哈利波特与火焰杯)
 + Game of Thrones (权力的游戏)
 + The Hunger Games (饥饿游戏三部曲)
-+ Pride and Prejudice (傲慢与偏见)
 + Sense and Sensibility (理智与情感)
 + The Great Gatsby (了不起的盖茨比)
 + The fault in our stars (无比美妙的痛苦)
@@ -33,7 +31,6 @@
 + Schindler's Ark (辛德勒的名单)
 + Uncle Tom's cabin (汤姆大叔的小屋)
 + To kill a mocking bird (杀死一只知更鸟)
-+ Jane Eyre by Charlotte Brontë (简爱)
 + Gone with the Wind by Margaret Mitchell and Sonny Warner (飘)
 + C++ Primer
 + C Primer Plus
@@ -91,5 +88,41 @@
 + A first course in probability(概率论基础教程) Sheldon M. Ross
 + An introduction to Probability Theory And Its Applications (概率论及其应用) WilliamFeller
 + Mathematical thought:from ancient to modern times (古今数学思想)
-+ A Short History of Nearly Everything (万物简史)
++ A Short History of Nearly Everything (万物简史)
 + The Selfish Gene (自私的基因)
+- 几何原本
+- 相对论
+- 庄子
+- 古文观止
+- 红楼梦
++ 西游记
++ 三国演义
++ 水浒传
+- 儒林外史
+- 乌合之众
+- 骆驼祥子
++ 许三观卖血记
++ 围城
++ 三体
++ 解忧杂货铺
++ 傅雷家书
++ 毛泽东选集
+- The Lord of the Rings (魔戒)
++ The Kite Runner (追风筝的人)
++ 山海经
++ 文心雕龙
++ “Surely You’re Joking,Mr. Feynman!” - Adventures of a Curious Character (别闹了，费曼先生)
++ A Global History: From Prehistory to the 21st Century (全球通史)
++ Cien años de soledad (百年孤独)
++ 书虫·牛津英汉双语读物全套
++ Guns, Germs and Steel: The Fates of Human Societies (枪炮、病菌与钢铁--人类社会的命运)
++ 孙子兵法
++ Influence: The Psychology of Persuasion (影响力： 你为什么会说"是"？)
++ 资治通鉴
++ 史记
++ The Moon and Sixpence (月亮和六便士)
++ 白夜行
++ 平凡的世界
++ Amusing Ourselves to Death (娱乐至死)
++ The Cambridge History of China (剑桥中国史)
++ The Chrysanthemum and the Sword (菊与刀:日本文化的类型)
